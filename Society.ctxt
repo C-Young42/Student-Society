@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Society
+comment1.params=
+comment1.target=Society()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Society\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=member
+comment3.target=void\ join(Member)
+comment4.params=
+comment4.target=void\ printDetails()
+comment5.params=joinedMonth
+comment5.target=int\ joinedInMonth(int)
+comment6.params=member
+comment6.target=void\ payFees(Member)
+comment7.params=month\ year
+comment7.target=java.util.List\ remove(int,\ int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
